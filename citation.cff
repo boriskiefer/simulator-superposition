@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this simulator, please cite it."
+title: "Teaching Quantum Superposition: A Ready-to-Adopt Simulator with Activities and Assessment"
+version: "1.0"
+date-released: "2025-11-07"
+authors:
+  - family-names: "Kiefer"
+    given-names: "Boris"
+    orcid: "0000-0003-0242-3165"   # optional
+repository-code: "https://github.com/boriskiefer/simulator-superposition"
+url: "https://github.com/boriskiefer/simulator-superposition"
+license: "MIT"                     # or your license
+keywords: ["quantum mechanics education", "superposition", "probability", "measurement", "simulation", "Python"]
